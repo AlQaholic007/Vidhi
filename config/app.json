@@ -1,0 +1,10 @@
+{
+  "name":"Vidhi Mody",
+  "title":"Vidhi Mody",
+  "http": {
+      "host":"localhost",
+      "port":3000
+  },
+  "author": "Vidhi Mody",
+  "version": "1.0.0"
+}
